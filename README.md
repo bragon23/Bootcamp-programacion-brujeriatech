@@ -16,7 +16,7 @@ Lunes, Miércoles y Viernes 07:00pm (19 hrs) hora de la ciudad de méxico
 
 ## ¿Qué es lo que vermos?
 
-EEn el curso de programacion en vivo vamos a ver las siguientes cosa:
+En el curso de programacion en vivo vamos a ver las siguientes cosa:
 
 **NOTA:** No necesariamente va a ser una clase por tema.
 
